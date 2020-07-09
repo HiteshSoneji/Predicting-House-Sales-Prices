@@ -1,1 +1,3 @@
 # Predicting-House-Sales-Prices
+
+A simple and common project for new Machine Learning and Data Science Enthusiasts. The Project is built using Linear Regression Model and helps to predict the house prices in King County Area of USA. Moreover, there are various graphs plotted for understanding the relationship between the features of the data, such as scatter plots, box plots, etc. The model was built using sklearn module of Python. The project is part of the ongoing Coursera course 'Machine Learning Foundations: A Case Study Approach' by University of Washington. This small project was part of the case study given in Week 2 of the course.
